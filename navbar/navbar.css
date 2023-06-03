@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar_href {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #25202F;
+}
+.navbar_text_father{
+    justify-content: space-between;
+}
+nav{
+    padding-top: 30px;
+}
