@@ -16,6 +16,7 @@
 }
 
 .left_text_all3 {
+    margin-top: 40px;
     font-family: 'Red Hat Display';
     font-style: normal;
     font-weight: 700;
@@ -60,4 +61,35 @@
 
 #shop {
     width: 80%;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+.navbar_href {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #25202F;
+}
+.navbar_text_father{
+    justify-content: space-between;
+}
+nav{
+    padding-top: 30px;
+}
+.letsbe {
+    text-align: center;
+}
+
+.footer_icons {
+    text-align: center;
+    gap: 30px;
 }
