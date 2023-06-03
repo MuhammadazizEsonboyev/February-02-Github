@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.card {
+    padding: 30px 50px 30px 50px;
+    margin: auto;
+    text-align: center;
+}
+
+.left_text_all3 {
+    font-family: 'Red Hat Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 48px;
+    color: #25202F;
+}
+
+.stackText {
+    padding-top: 20px;
+}
+
+.image_one {
+    width: 100%;
+}
+
+.card:nth-child(2) {
+    background: #EDFFF5;
+}
+
+.card:nth-child(3) {
+    background: #F5FCFF;
+}
+
+.card:nth-child(4) {
+    background: #FFFBF2;
+}
+
+.card:nth-child(5) {
+    background: #F4FFED;
+}
+
+#micrasfort {
+    width: 70%;
+    margin-left: 10px;
+}
+
+#zelphin {
+    width: 80%;
+    margin-right: 10px;
+}
+
+#shop {
+    width: 80%;
+}
